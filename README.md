@@ -1,6 +1,9 @@
-<h2 align="center"> Guia de Flutter </h2>
+# Base Flutter
+Tem como objetivo exemplificar os principais widgets do framework flutter.
 
-<h2>Tecnologias</h1>
+---
+
+#### Tecnologias
 <ul>
   <li> <img src="./img/dart-logo.png" alt="Dart" height="22"> <strong>   Dart </strong> </li>
   <li> <img src="./img/flutter-logo.svg" alt="Flutter" height="22"> <strong>   Flutter </strong> </li>
